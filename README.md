@@ -1,0 +1,2 @@
+# alfred_chrome_profile_launcher
+chromeのprofileをalfredでインクリメンタルサーチして開く
